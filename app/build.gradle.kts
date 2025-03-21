@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.neko.helsirootbypass"
+    namespace = "com.neko.lloydrootbypass"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.neko.helsirootbypass"
+        applicationId = "com.neko.lloydrootbypass"
         minSdk = 21
         targetSdk = 34
         versionCode = 1
