@@ -10,7 +10,7 @@ import de.robv.android.xposed.callbacks.XC_LoadPackage;
 public class RootBypass implements IXposedHookLoadPackage {
     @Override
     public void handleLoadPackage(XC_LoadPackage.LoadPackageParam lpparam) throws Throwable {
-        if (lpparam.packageName.equals("helsi.me")) {
+        if (lpparam.packageName.equals("com.grppl.android.shell.CMBlloydsTSB73")) {
             XposedHelpers.findAndHookMethod(
                     "com.gantix.JailMonkey.JailMonkeyModule",
                     lpparam.classLoader,
