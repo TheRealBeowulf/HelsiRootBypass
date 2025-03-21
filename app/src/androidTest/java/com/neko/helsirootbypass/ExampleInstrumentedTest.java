@@ -1,4 +1,4 @@
-//package com.neko.helsirootbypass;
+//package com.neko.lloydrootbypass;
 //
 //import android.content.Context;
 //
@@ -21,6 +21,6 @@
 //    public void useAppContext() {
 //        // Context of the app under test.
 //        Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-//        assertEquals("com.neko.helsirootbypass", appContext.getPackageName());
+//        assertEquals("com.neko.lloydrootbypass", appContext.getPackageName());
 //    }
 //}
