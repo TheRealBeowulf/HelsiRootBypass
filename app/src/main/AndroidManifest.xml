@@ -16,7 +16,7 @@
             android:value="true" />
         <meta-data
             android:name="xposeddescription"
-            android:value="Bypass root detection in Helsi app" />
+            android:value="Bypass root detection in lloyds app" />
         <meta-data
             android:name="xposedminversion"
             android:value="82" />
